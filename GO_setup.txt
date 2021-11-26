@@ -1,0 +1,11 @@
+install go from web
+/
+run go version to check if go is installed
+
+
+add GOPATH AND GOROOT to user variables and path to both user variables environmental variable
+
+
+go mod init
+
+go build
